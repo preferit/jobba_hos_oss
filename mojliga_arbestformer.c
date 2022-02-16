@@ -49,15 +49,15 @@ int main()
     };
     
     char *mojlig_arbetsform_pretty_print[NBR_OF_MOJLIG_ARBETS_FORM_CHECK_ROWS][NBR_OF_MOJLIG_ARBETS_FORM_CHECK_COLUMNS] = {
-        {"Arbetsformen: egenföretagare TRUE, anställd TRUE, preferit_AB FALSE är ej möjlig.\n",
-        "Den jobbiga arbetsformen: egenföretagare TRUE anställd FALSE, preferit_AB FALSE är möjlig.\n",
-        "Den trista arbetsformen: egenföretagare FALSE, anställd TRUE, preferit_AB FALSE är möjlig.\n", 
-        "Arbetsformen: egenföretagare FALSE, anställd FALSE, preferit_AB FALSE är ej möjlig.\n"
+        {"Arbetsformen: egenföretagare TRUE, anställd TRUE, preferit_AB FALSE: är ej möjlig.\n",
+        "Arbetsformen: egenföretagare TRUE anställd FALSE, preferit_AB FALSE: är möjlig men, det finns en som är bättre.\n",
+        "Den trista arbetsformen: egenföretagare FALSE, anställd TRUE, preferit_AB FALSE: är möjlig.\n", 
+        "Arbetsformen: egenföretagare FALSE, anställd FALSE, preferit_AB FALSE: är ej möjlig.\n"
         },
-        {"Arbetsformen: egenföretagare FALSE, anställd FALSE, preferit_AB TRUE är ej möjlig.\n" ,
-        "Arbetsformen: egenföretagare TRUE anställd FALSE, preferit_AB TRUE är ej möjlig.\n",
-        "Arbetsformen: egenföretagare FALSE, anställd TRUE, preferit_AB TRUE är möjlig.\n", 
-        "Den roliga arbetsformen: egenföretagare TRUE, anställd TRUE, preferit_AB TRUE ÄR MÖJLIG!\n"}
+        {"Arbetsformen: egenföretagare FALSE, anställd FALSE, preferit_AB TRUE: är ej möjlig.\n" ,
+        "Arbetsformen: egenföretagare TRUE anställd FALSE, preferit_AB TRUE: är ej möjlig.\n",
+        "Arbetsformen: egenföretagare FALSE, anställd TRUE, preferit_AB TRUE: är möjlig.\n", 
+        "Den roliga arbetsformen: egenföretagare TRUE, anställd TRUE, preferit_AB TRUE: ÄR MÖJLIG!\n"}
     };
     
     int i = 0;
