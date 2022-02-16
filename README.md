@@ -8,7 +8,7 @@ Som ett helt personalägt företag (Preferit AB där jag jobbar obviously), lite
 
 Man får välja vilken teknik man vill jobba med och utvecklas i (vi fixar uppdrag som passar in med det).
 
-Vi har goda marknadsmässiga löner och kör en flexibel lönesättning med justerbara parametrar som:
+Vi har goda marknadsmässiga löner med justerbara parametrar som:
 * Vilket tjänstepensionsupplägg man vill ha.
 * Antalet semesterveckor man vill ha.
 * Lite annat smått och gott.
