@@ -1,7 +1,7 @@
 # jobba_hos_oss
 Vilken arbetsform vill du ha och vilken arbetsform är möjlig?
 Kör koden så ser du ;)
-# Sales pitch (Obligatorsik för rekryterare :D)
+# Sales pitch (Obligatorsik för mig som är rekryterare :D)
 Sugen på något nytt?
 
 Som ett helt personalägt företag (Preferit AB där jag jobbar obviously), lite som eget, fast som anställd.
@@ -20,4 +20,5 @@ Kontakta så fall mig på alexander@preferit.se eller på LinkedIn (Alexander L�
 Om du inte är intresserad efter lunchen, så hey gratis lunch är alltid gott.
 
 mvh
+
 /Alexander Löfqvist
