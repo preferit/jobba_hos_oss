@@ -57,7 +57,7 @@ int main()
         {"Arbetsformen: egenföretagare FALSE, anställd FALSE, preferit_AB TRUE är ej möjlig.\n" ,
         "Arbetsformen: egenföretagare TRUE anställd FALSE, preferit_AB TRUE är ej möjlig.\n",
         "Arbetsformen: egenföretagare FALSE, anställd TRUE, preferit_AB TRUE är möjlig.\n", 
-        "Arbetsformen: egenföretagare TRUE, anställd TRUE, preferit_AB TRUE ÄR MÖJLIG!\n"}
+        "Den roliga arbetsformen: egenföretagare TRUE, anställd TRUE, preferit_AB TRUE ÄR MÖJLIG!\n"}
     };
     
     int i = 0;
