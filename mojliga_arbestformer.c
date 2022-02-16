@@ -50,7 +50,7 @@ int main()
     
     char *mojlig_arbetsform_pretty_print[NBR_OF_MOJLIG_ARBETS_FORM_CHECK_ROWS][NBR_OF_MOJLIG_ARBETS_FORM_CHECK_COLUMNS] = {
         {"Arbetsformen: egenföretagare TRUE, anställd TRUE, preferit_AB FALSE är ej möjlig.\n",
-        "Den trista arbetsformen: egenföretagare TRUE anställd FALSE, preferit_AB FALSE är möjlig.\n",
+        "Den jobbiga arbetsformen: egenföretagare TRUE anställd FALSE, preferit_AB FALSE är möjlig.\n",
         "Den trista arbetsformen: egenföretagare FALSE, anställd TRUE, preferit_AB FALSE är möjlig.\n", 
         "Arbetsformen: egenföretagare FALSE, anställd FALSE, preferit_AB FALSE är ej möjlig.\n"
         },
