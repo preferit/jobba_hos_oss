@@ -4,7 +4,7 @@ Kör mojliga_arbestformer.a så ser du ;)
 # Sales pitch (Obligatorsik för mig som är rekryterare :D)
 Sugen på något nytt?
 
-Som ett helt personalägt företag (Preferit AB där jag jobbar obviously), lite som eget, fast som anställd.
+Som ett helt personalägt konsultföretag (Preferit AB där jag jobbar obviously), lite som eget, fast som anställd.
 
 Som konsult hos oss får man välja vilken teknik man vill jobba med och utvecklas i (vi fixar uppdrag som passar in med det).
 
