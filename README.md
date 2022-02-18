@@ -1,6 +1,6 @@
 # jobba_hos_oss
 Vilken arbetsform vill du ha och vilken arbetsform är möjlig?
-Kör koden så ser du ;)
+Kör mojliga_arbestformer.a så ser du ;)
 # Sales pitch (Obligatorsik för mig som är rekryterare :D)
 Sugen på något nytt?
 
