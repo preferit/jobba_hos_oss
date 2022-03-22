@@ -6,7 +6,7 @@ Sugen på något nytt?
 
 Som ett helt personalägt konsultföretag (Preferit AB där jag jobbar obviously), lite som eget, fast som anställd.
 
-Som konsult hos oss får man välja vilken teknik man vill jobba med och utvecklas i (vi fixar uppdrag som passar in med det).
+Som konsult hos arbetar vi på PreferIT hårt för att du ska få jobba med en teknik du vill jobba med och utvecklas i.
 
 Vi har goda marknadsmässiga löner med justerbara parametrar som:
 * Vilket tjänstepensionsupplägg man vill ha.
