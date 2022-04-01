@@ -17,7 +17,7 @@ Så vi kan väl träffas på en förutsättningslös lunch?
 
 Kontakta så fall mig på alexander@preferit.se eller på LinkedIn (Alexander Löfqvist)
 
-Om du inte är intresserad efter lunchen, så hey gratis lunch är alltid gott.
+Så kan vi ju ta en kaffe/fika
 
 mvh
 
