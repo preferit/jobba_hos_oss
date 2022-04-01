@@ -13,11 +13,9 @@ Vi har goda marknadsmässiga löner med justerbara parametrar som:
 * Antalet semesterveckor man vill ha.
 * Lite annat smått och gott.
 
-Så vi kan väl träffas på en förutsättningslös lunch?
+Så vi kan väl träffas på en förutsättningslös kaffe/fika?
 
 Kontakta så fall mig på alexander@preferit.se eller på LinkedIn (Alexander Löfqvist)
-
-Så kan vi ju ta en kaffe/fika
 
 mvh
 
