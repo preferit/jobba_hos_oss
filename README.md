@@ -1,6 +1,8 @@
 # jobba_hos_oss
 Vilken arbetsform vill du ha och vilken arbetsform är möjlig?
 Kör mojliga_arbestformer.a så ser du ;)
+# Vilka är vi
+För att se vilka vi är just nu. Kör who_are_we.a så ser du ;) 
 # Sales pitch (Obligatorsik för mig som är rekryterare :D)
 Sugen på något nytt?
 
@@ -14,6 +16,7 @@ Vi har goda marknadsmässiga löner med justerbara parametrar som:
 * Lite annat smått och gott.
 
 Ett av våra mål är att aldrig bli mer än 15 personer, på så vis kan vi se till att vårt lilla bolag med god sammanhållning förblir just det, litet och med god sammanhållning :)
+
 
 Så vi kan väl träffas på en förutsättningslös kaffe/fika?
 
