@@ -22,10 +22,10 @@ int main()
     printf("Martin\n");
     printf("Timo\n");
     printf("Ditt namn\n");
-    printf("XX preferred\n");
-    printf("XX preferred\n");
-    printf("XX preferred\n");
-    printf("XX preferred\n\n");
+    printf("XX\n");
+    printf("XX\n");
+    printf("XX\n");
+    printf("XX\n\n");
     printf("%d is our upper limit av antalet anställda.\n", UPPER_LIMIT);
     printf("Hade varit trevligt om du hade kunnat vara 1 av de %d som fattas :)\n", UPPER_LIMIT - nbr_of_current_employees);
     
