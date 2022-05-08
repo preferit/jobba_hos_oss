@@ -21,6 +21,8 @@ Så vi kan väl träffas på en förutsättningslös kaffe/fika?
 
 Kontakta så fall mig på alexander@preferit.se eller på LinkedIn (Alexander Löfqvist)
 
+Jag är alltid intresserad av att diskutera tekniker du sitter med just nu eller har erfarenhet av, chansen är att jag kanske lär mig något nytt och det är ju alltid kul :D
+
 mvh
 
 /Alexander Löfqvist
