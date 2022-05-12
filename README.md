@@ -6,7 +6,7 @@ För att se vilka vi är just nu. Kör who_are_we.a så ser du ;)
 # Sales pitch (Obligatoriskt :D)
 Sugen på något nytt?
 
-Som ett helt personalägt konsultföretag (Preferit AB där jag jobbar obviously), lite som eget, fast som anställd.
+Som ett helt personalägt konsultföretag (Preferit AB där jag jobbar obviously) med huvudkontor i Malmö, lite som eget, fast som anställd.
 
 Vi på PreferIT arbetar hårt för att du som konsult, ska få jobba med en teknik du vill jobba med och utvecklas i.
 
