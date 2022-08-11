@@ -10,6 +10,8 @@ Som ett helt personalägt konsultföretag (Preferit AB där jag jobbar obviously
 
 Vi på PreferIT arbetar hårt för att du som konsult, ska få jobba med en teknik du vill jobba med och utvecklas i.
 
+Våra uppdrag sträcker sig oftast över 1 år ute hos diverse spännande kunder.
+
 Vi har goda marknadsmässiga löner med justerbara parametrar som:
 * Vilket tjänstepensionsupplägg man vill ha.
 * Antalet semesterveckor man vill ha.
