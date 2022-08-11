@@ -15,7 +15,9 @@ Vi har goda marknadsmässiga löner med justerbara parametrar som:
 * Antalet semesterveckor man vill ha.
 * Lite annat smått och gott.
 
-Ett av våra mål är att aldrig bli mer än 15 personer, på så vis kan vi se till att vårt lilla bolag med god sammanhållning förblir just det, litet och med god sammanhållning :)
+Vi har tre huvudsakliga mål med vårt lilla företag, varav ett redan är nämnt, men här nedan följer de andra två:
+* Att aldrig bli mer än 15 personer, på så vis kan vi se till att vårt lilla bolag med god sammanhållning förblir just det, litet och med god sammanhållning :)
+* Att utvecklas tillsammans, dela kunskaper och erfarnheter med varandra, för att göra detta träffas vi ofta.
 
 Så vi kan väl träffas på en förutsättningslös kaffe/fika?
 
