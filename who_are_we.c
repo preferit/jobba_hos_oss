@@ -15,7 +15,7 @@ int main()
     printf("BG\n");
     printf("Cleas\n");
     printf("David\n");
-    printf("Gregory");
+    printf("Gregory\n");
     printf("Petter\n");
     printf("Ingemar\n");
     printf("Jesper\n");
