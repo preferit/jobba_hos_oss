@@ -17,11 +17,11 @@ int main()
     printf("David\n");
     printf("Gregory\n");
     printf("Petter\n");
-    printf("Ingemar\n");
     printf("Jesper\n");
     printf("Martin\n");
     printf("Timo\n");
     printf("Ditt namn\n");
+    printf("XX\n");
     printf("XX\n");
     printf("XX\n");
     printf("XX\n");
