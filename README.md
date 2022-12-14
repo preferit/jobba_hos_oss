@@ -6,9 +6,8 @@ Kör mojliga_arbestformer.a så ser du ;)
 # Vilka är vi
 För att se vilka vi är just nu. Kör who_are_we.a så ser du ;) 
 # Sales pitch (Obligatoriskt :D)
-Sugen på något nytt?
 
-Som ett helt personalägt konsultföretag (Preferit AB där jag jobbar obviously) med huvudkontor i Malmö, lite som eget, fast som anställd.
+Vi är ett helt personalägt konsultföretag (Preferit AB där jag jobbar obviously) med huvudkontor i Malmö, lite som eget, fast som anställd.
 
 Vi på PreferIT arbetar hårt för att du som konsult, ska få jobba med en teknik du vill jobba med och utvecklas i.
 
@@ -25,10 +24,14 @@ Vi har tre huvudsakliga mål med vårt lilla företag, varav ett redan är nämn
 
 Så vi kan väl träffas på en förutsättningslös kaffe/fika?
 
-Kontakta så fall mig på alexander@preferit.se eller på LinkedIn (Alexander Löfqvist)
+Kontakta så fall mig på alexander@preferit.se eller på LinkedIn (https://www.linkedin.com/in/alexander-l%C3%B6fqvist-343a0aa2)
 
 Jag är alltid intresserad av att diskutera tekniker du sitter med just nu eller har erfarenhet av, chansen är att jag kanske lär mig något nytt och det är ju alltid kul :D
 
-mvh
+# Smått och gott
+https://www.youtube.com/@gregoryvincic1880
+
+https://octopus-grips.com/
+
 
 /Alexander Löfqvist
