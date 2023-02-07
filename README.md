@@ -22,7 +22,7 @@ Vi har tre huvudsakliga mål med vårt lilla företag, varav ett redan är nämn
 * Att aldrig bli mer än 15 personer, på så vis kan vi se till att vårt lilla bolag med god sammanhållning förblir just det, litet och med god sammanhållning :)
 * Att utvecklas tillsammans, dela kunskaper och erfarnheter med varandra, för att göra detta träffas vi ofta.
 
-Så vi kan väl träffas på en förutsättningslös kaffe/fika?
+Om du känner att du skulle passa in på vårt lilla företag kan vi väl träffas på en förutsättningslös kaffe/fika?
 
 Kontakta så fall mig på alexander@preferit.se eller på LinkedIn (https://www.linkedin.com/in/alexander-l%C3%B6fqvist-343a0aa2)
 
