@@ -20,7 +20,7 @@ Vi har goda marknadsmässiga löner med justerbara parametrar som:
 
 Vi har tre huvudsakliga mål med vårt lilla företag, varav ett redan är nämnt, men här nedan följer de andra två:
 * Att aldrig bli mer än 15 personer, på så vis kan vi se till att vårt lilla bolag med god sammanhållning förblir just det, litet och med god sammanhållning :)
-* Att utvecklas tillsammans, dela kunskaper och erfarnheter med varandra, för att göra detta träffas vi ofta.
+* Att utvecklas tillsammans, dela kunskaper och erfarenheter med varandra, för att göra detta träffas vi ofta.
 
 Om du känner att du skulle passa in på vårt lilla företag kan vi väl träffas på en förutsättningslös kaffe/fika?
 
