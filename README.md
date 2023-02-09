@@ -5,9 +5,9 @@ Vilken arbetsform vill du ha och vilken arbetsform är möjlig?
 Kör mojliga_arbestformer.a så ser du ;)
 # Vilka är vi
 För att se vilka vi är just nu. Kör who_are_we.a så ser du ;) 
-# Sales pitch (Obligatoriskt :D)
+# Om oss
 
-Vi är ett helt personalägt konsultföretag (Preferit AB där jag jobbar obviously) med huvudkontor i Malmö, lite som eget, fast som anställd.
+Vi (Preferit AB) är ett helt personalägt konsultföretag, lite som eget, fast som anställd.
 
 Vi på PreferIT arbetar hårt för att du som konsult, ska få jobba med en teknik du vill jobba med och utvecklas i.
 
